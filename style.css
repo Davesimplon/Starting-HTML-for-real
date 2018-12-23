@@ -1,4 +1,23 @@
+html {
+	background: AntiqueWhite;
+}
+
 h1 {
 	color: red;
 	text-align: center;
+}
+h3 {
+	color: blue;
+	text-align: right;
+}
+nav {
+	 display: inline;
+	
+}
+
+.copyright {
+	font-size: 8pt;
+	text-align: right;
+	padding-bottom: 10px;
+	color: grey;
 }
